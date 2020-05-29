@@ -147,5 +147,3 @@ Issues without a completed issue template will be deleted after 7 days.
 
 - ⭐ **star** this repo to get notifications on future improvements and
 - 🍴 **fork** this repo if you like to use it as part of your own project.
-
-![CatVideo](/Utils/Screenshots/CatVideo.gif)
