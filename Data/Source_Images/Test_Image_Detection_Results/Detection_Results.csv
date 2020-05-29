@@ -1,0 +1,10 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+4.jpg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/4.jpg,1,26,299,192,0,0.98366779088974,300,210
+76.jpeg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/76.jpeg,104,11,679,514,2,0.9794286489486694,800,534
+10.jpeg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/10.jpeg,40,18,235,181,0,0.9567456245422363,245,206
+117.jpg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/117.jpg,3,2,256,254,1,0.9826911687850952,256,256
+168.jpg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/168.jpg,9,21,250,238,3,0.9933860301971436,256,256
+103.jpg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/103.jpg,9,0,250,256,1,0.9923527240753174,256,256
+160.jpg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/160.jpg,8,9,249,242,3,0.9960678815841675,256,256
+80.jpeg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/80.jpeg,125,32,218,181,2,0.9283307194709778,231,218
+80.jpeg,/home/nirmal/Documents/Potato_Disease/TrainYourOwnYOLO/Data/Source_Images/Test_Images/80.jpeg,13,5,106,211,2,0.9391356706619263,231,218
